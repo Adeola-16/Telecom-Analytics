@@ -111,12 +111,13 @@ Recall is prioritised because missing a churner is more costly than contacting a
 - K‑Means clustering  
 - Segment profiling  
 
-**Example Segment Insights:**
+---
 
-- **Segment 0:** Long‑tenure, stable customers — ideal for loyalty rewards  
-- **Segment 1:** High‑spend customers — suitable for premium upgrades  
-- **Segment 2:** Low‑tenure, high churn risk — targeted retention offers  
-- **Segment 3:** Price‑sensitive customers — promotional bundles  
+## 📉 Elbow Method (Choosing Number of Clusters)
+
+The chart below shows the **Elbow Method**, which helps determine the optimal number of clusters for K‑Means segmentation.
+
+![Elbow Method](visuals/elbow_method.png)
 
 ---
 
@@ -156,3 +157,4 @@ This project was completed as an independent capstone for a data‑science portf
 It demonstrates practical machine‑learning skills, clear reasoning, and the ability to translate technical results into business value.
 
 ---
+
